@@ -1,6 +1,6 @@
 # VueCalculator
 ***
-Quote generator app on Vue.js
+Calculator app on Vue.js
 
 
 ## 💻 Topics
